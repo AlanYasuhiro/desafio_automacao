@@ -1,0 +1,1 @@
+Com o CMD aberto na pasta do projeto, execute o comando: npm run cypress:open
